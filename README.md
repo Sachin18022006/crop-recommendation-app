@@ -56,14 +56,14 @@ The application is structured using a **Streamlit frontend** for the user interf
 1.**Login / Signup**
 - Log in or create a new account via the sidebar menu.
 ### Login Page
-![Login Page Screenshot](screenshots/login_page.png)
+![Login Page Screenshot](screenshots/login_page.png.png)
 
 2.**Crop Recommendation**
 - Select "Crop Recommendation".
 - Enter soil nutrients (N, P, K), temperature, humidity, pH, rainfall, and soil type.
 - Click "Predict Crop".
 ### Crop Recommendation
-![Crop Recommendation Screenshot](screenshots/crop_recommendation.png)
+![Crop Recommendation Screenshot](screenshots/crop_recommendation.png.png)
 
 
 3.**Fertilizer Recommendation**
@@ -71,7 +71,7 @@ The application is structured using a **Streamlit frontend** for the user interf
 - Select a crop.
 - Click "Get NPK Ratio".
 ### Fertilizer Recommendation
-![Fertilizer Recommendation Screenshot](screenshots/fertilizer_recommendation.png)
+![Fertilizer Recommendation Screenshot](screenshots/fertilizer_recommendation.png.png)
 
 
 ## Project Structure
