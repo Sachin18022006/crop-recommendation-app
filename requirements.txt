@@ -6,3 +6,5 @@ joblib
 streamlit 
 requests
 streamlit-authenticator 
+gunicorn
+flask-cors
