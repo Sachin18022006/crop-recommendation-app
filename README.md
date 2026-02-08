@@ -39,8 +39,7 @@ The application is structured using a **Streamlit frontend** for the user interf
 - Python 3.8+ installed.
 
 2. **Clone the Repository**
-- git clone https://github.com/AnanyaB-262005/Crop_Reccomendation_Using_ML
-- cd agri-tech-ml-hub
+- git clone https://github.com/Sachin18022006/crop-recommendation-app.git
 
 
 3. **Install Dependencies**
